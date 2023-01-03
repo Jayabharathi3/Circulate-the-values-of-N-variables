@@ -37,7 +37,7 @@ n = int(input())
 ```
 
 ## Output:
-![](./nvariable.png)
+![](./nvariable1.png)
 
 ## Result:
 
